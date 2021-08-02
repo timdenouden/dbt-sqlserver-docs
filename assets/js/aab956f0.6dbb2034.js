@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdbt_sqlserver_docs=self.webpackChunkdbt_sqlserver_docs||[]).push([[371],{7276:function(s){s.exports=JSON.parse('{"allTagsPath":"/dbt-sqlserver-docs/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/dbt-sqlserver-docs/blog/tags/facebook"}')}}]);
