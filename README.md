@@ -4,6 +4,13 @@ This website is built as a companion for [dbt-sqlserver](https://github.com/dbt-
 
 The latest version of this site is hosted via Github Pages at [https://timdenouden.github.io/dbt-sqlserver-docs/](https://timdenouden.github.io/dbt-sqlserver-docs/)
 
+## Working Branches
+Name | Usage
+--- | ---
+main | Latest live version of dbt-sqlserver-docs
+development | Develop and modify web oriented work including but not limited to: React components, styling, Docusaurus configuration, and CI / CD.
+documentation | Manage changes to the content of the site. Most changes are to be made within the /docs and /static directories.
+
 
 
 ---
